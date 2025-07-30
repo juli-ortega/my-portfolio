@@ -4,6 +4,7 @@
     "": {
       "name": "portfolio-julian",
       "dependencies": {
+        "@fontsource-variable/onest": "^5.2.9",
         "@tailwindcss/vite": "^4.1.11",
         "astro": "^5.12.6",
         "tailwindcss": "^4.1.11",
@@ -86,6 +87,8 @@
     "@esbuild/win32-ia32": ["@esbuild/win32-ia32@0.25.8", "", { "os": "win32", "cpu": "ia32" }, "sha512-hiGgGC6KZ5LZz58OL/+qVVoZiuZlUYlYHNAmczOm7bs2oE1XriPFi5ZHHrS8ACpV5EjySrnoCKmcbQMN+ojnHg=="],
 
     "@esbuild/win32-x64": ["@esbuild/win32-x64@0.25.8", "", { "os": "win32", "cpu": "x64" }, "sha512-cn3Yr7+OaaZq1c+2pe+8yxC8E144SReCQjN6/2ynubzYjvyqZjTXfQJpAcQpsdJq3My7XADANiYGHoFC69pLQw=="],
+
+    "@fontsource-variable/onest": ["@fontsource-variable/onest@5.2.9", "", {}, "sha512-yMYrvMibKYTckL2vxeC+Z9buANY1GNgwG8oMHx3I7sjqxeOmHufHsI+Bbt3kYSoM0ominSr3qgAjMiFNWog6Uw=="],
 
     "@img/sharp-darwin-arm64": ["@img/sharp-darwin-arm64@0.33.5", "", { "optionalDependencies": { "@img/sharp-libvips-darwin-arm64": "1.0.4" }, "os": "darwin", "cpu": "arm64" }, "sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ=="],
 
